@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dahrems
 - 👀 I’m interested in all things that has to do with coding and design
-- 🌱 I’m currently learning CISSP, C, C#, PYTHON, JAVA AND LINUX
+- 🌱 CISSP, C, C#, PYTHON, JAVA AND LINUX
 
 - 📫 How to reach me 
 instagram-- @dahrems1
